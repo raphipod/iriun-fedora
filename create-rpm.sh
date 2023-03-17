@@ -14,9 +14,13 @@ then
   sudo dnf install v4l2loopback -y
 fi
 
+# Download 
+
+curl https://iriun.gitlab.io/iriunwebcam-2.8.deb --output iriunwebcam.deb
+
 # Convert .deb package to .rpm using alien
 
-sudo alien -r iriunwebcam-*.deb --target=x86_64
+sudo alien -r iriunwebcam.deb --target=x86_64
 
 # Force-install iriunwebcam package with rpm (CHANGE UPON VERSION CHANGE!)
 
