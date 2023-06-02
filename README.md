@@ -1,4 +1,4 @@
-# iriun-fedora (DEPRECATED)
+# iriun-fedora
 Iriun Webcam as a RPM package
 
 ## Installation:
