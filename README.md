@@ -11,6 +11,6 @@ Install it on Fedora with the following command:
 other programs with rpm/dnf. If that happens, just uninstall iriunwebcam and reinstall it
 after the update/program.**
 
-Tested functional on Nobara 37 (Fedora 37).
+Tested functional on Fedora 37 and 38.
 
 Latest deb version of Iriun: 2.8
