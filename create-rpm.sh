@@ -16,7 +16,7 @@ fi
 
 # Download 
 
-curl https://iriun.gitlab.io/iriunwebcam-2.8.deb --output iriunwebcam.deb
+curl https://iriun.gitlab.io/iriunwebcam-2.8.1.deb --output iriunwebcam.deb
 
 # Convert .deb package to .rpm using alien
 
