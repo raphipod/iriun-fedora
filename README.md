@@ -13,4 +13,4 @@ after the update/program.**
 
 Tested functional on Fedora 37 and 38.
 
-Latest deb version of Iriun: 2.8
+Latest deb version of Iriun: 2.8.1
