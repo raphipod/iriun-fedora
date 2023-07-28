@@ -24,4 +24,4 @@ sudo alien -r iriunwebcam.deb --target=x86_64
 
 # Force-install iriunwebcam package with rpm (CHANGE UPON VERSION CHANGE!)
 
-sudo rpm -Uvh iriunwebcam-2.8-2.x86_64.rpm --force
+sudo rpm -Uvh iriunwebcam-2.8.1-2.x86_64.rpm --force
