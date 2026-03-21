@@ -1,3 +1,6 @@
+### THIS REPO IS NO LONGER MAINTAINED!!!
+### The [Iriun website](https://iriun.com) has a Beta RPM available now, please use this one instead!
+
 # iriun-fedora
 Iriun Webcam as a RPM package
 
